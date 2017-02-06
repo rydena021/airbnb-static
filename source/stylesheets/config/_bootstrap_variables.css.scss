@@ -11,7 +11,8 @@ $line-height-base:        $base-height;
 $headings-font-family:    $header-font;
 
 // Semantic color scheme
-$brand-primary:   $blue;
+$brand-color:     $yellow;
+$brand-primary:   $yellow;
 $brand-success:   $green;
 $brand-info:      $yellow;
 $brand-danger:    $red;
@@ -21,3 +22,14 @@ $brand-warning:   $orange;
 $border-radius-base:  2px;
 $border-radius-large: 2px;
 $border-radius-small: 2px;
+
+// Override bootstrap
+// a {
+//   color: $green;
+// }
+
+// .btn-primary {
+//   color: $white;
+//   background-color: $dark-green;
+//   border-color: $yellow;
+// }

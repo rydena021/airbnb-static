@@ -1,0 +1,104 @@
+andrew:
+  name: Andrew Wilson
+  selfie: http://placehold.it/150x150
+  background: http://placehold.it/150x150
+  age: 44
+  occupation: city councilor
+  location: Nairobi
+  interested_in: women
+
+curt:
+  name: Curt Henderson
+  selfie: http://placehold.it/150x150
+  background: http://placehold.it/150x150
+  age: 21
+  occupation: mechanic
+  location: Texas
+  interested_in: women
+
+elizabeth:
+  name: Elizabeth Richards
+  selfie: http://placehold.it/150x150
+  background: http://placehold.it/150x150
+  age: 29
+  occupation: librarian
+  location: Costa Rica
+  interested_in: both
+
+curious:
+  name: Curious George
+  selfie: http://placehold.it/150x150
+  background: http://placehold.it/150x150
+  age: 8
+  occupation: fictional character
+  location: London
+  interested_in: unsure
+
+
+  # <div class="wrapper-bamboo padded" style="background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('images/high-resolution/bamboo_background.png');">
+  #     <div class="container">
+  #       <h2 class="text-center" style="color: white; font-size: 40px"><strong>Monkeys Near You</strong></h2>
+  #       <div class="row">
+  #         <div class="col-sm-12 col-md-6">
+  #           <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('images/andrew_wilson.png');">
+  #             <div class="card-location">Costa Rica</div>
+  #             <div class="card-description">
+  #               <h2 style="position: center;">Andrew Wilson</h2>
+  #               <ul>
+  #                 <li>Age: 44</li>
+  #                 <li>Occupation: Litigator</li>
+  #                 <li>Interests: Cognac, Yachts</li>
+  #               </ul>
+  #             </div>
+  #             <!-- <img class="card-icon avatar avatar-large" src=""> -->
+  #             <a class="card-link" href="profile.html" ></a>
+  #           </div>
+  #         </div>
+  #         <div class="col-sm-12 col-md-6">
+  #           <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('images/john_doe.jpg');">
+  #             <div class="card-location">Costa Rica</div>
+  #             <div class="card-description">
+  #               <h2>Curt Henderson</h2>
+  #               <ul>
+  #                 <li>Age: 29</li>
+  #                 <li>Occupation: Mechanic</li>
+  #                 <li>Interests: Nascar and Women</li>
+  #               </ul>
+  #             </div>
+  #             <!-- <img class="card-icon avatar avatar-large" src=""> -->
+  #             <a class="card-link" href="profile.html" ></a>
+  #           </div>
+  #         </div>
+  #         <div class="col-sm-12 col-md-6">
+  #           <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('images/anne_smith.jpg');">
+  #             <div class="card-location">Namibia</div>
+  #             <div class="card-description">
+  #               <h2>Elizabeth Richards</h2>
+  #               <ul>
+  #                 <li>Age: 23</li>
+  #                 <li>Occupation: Librarian</li>
+  #                 <li>Interests: Knitting</li>
+  #               </ul>
+  #             </div>
+  #             <!-- <img class="card-icon avatar avatar-large" src=""> -->
+  #             <a class="card-link" href="profile.html" ></a>
+  #           </div>
+  #         </div>
+  #         <div class="col-sm-12 col-md-6">
+  #           <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('images/curious_george.jpg'); background-color: yellow;">
+  #             <div class="card-location">London</div>
+  #             <div class="card-description">
+  #               <h2>Curious George</h2>
+  #               <ul>
+  #                 <li>Age: 8</li>
+  #                 <li>Occupation: Fictional Character</li>
+  #                 <li>Interests: Books</li>
+  #               </ul>
+  #             </div>
+  #             <!-- <img class="card-icon avatar avatar-large" src=""> -->
+  #             <a class="card-link" href="profile.html" ></a>
+  #           </div>
+  #         </div>
+  #       </div>
+  #     </div>
+  #   </div>

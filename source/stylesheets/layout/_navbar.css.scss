@@ -41,10 +41,10 @@
 
 /* Navbar standard link */
 .navbar-wagon-link {
-  font-size: 14px;
+  font-size: 16px;
 }
 .navbar-wagon-link:hover {
-  color: $charcoal;
+  color: $lime-green;
   text-decoration: none;
 }
 
@@ -61,8 +61,8 @@
 }
 .navbar-wagon-button:hover {
   color: white;
-  background: #D23333;
-  border-color: #ac2626;
+  background: $lime-green;
+  border-color: $charcoal;
 }
 
 /* Navbar search form */

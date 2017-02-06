@@ -2,15 +2,18 @@
   height: 250px;
   text-shadow: 0 1px 3px rgba(0,0,0,0.6);
   background-size: cover !important;
-  color: white;
+  color: red;
   position: relative;
   border-radius: 5px;
   margin-bottom: 20px;
 }
 .card-user {
   position: absolute;
-  right: 10px;
-  top: 10px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  margin: auto
 }
 .card-category {
   position: absolute;
@@ -20,8 +23,8 @@
 }
 .card-description {
   position: absolute;
-  bottom: 10px;
-  left: 10px;
+  bottom: 5px;
+  left: 5px;
 }
 .card-description h2 {
   font-size: 22px;

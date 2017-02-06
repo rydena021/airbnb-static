@@ -1,0 +1,100 @@
+andrew:
+  name: Andrew Wilson
+  age: 44
+  location: Nairobi
+  selfie: andrew_wilson.png
+  interested_in: women
+  about:
+
+curt:
+  name: Curt Henderson
+  age: 21
+  location: Texas
+  selfie: curt_henderson.png
+  interested_in: women
+  about:
+
+
+elizabeth:
+  name: Anne Smith
+  age: 29
+  location: Costa Rica
+  selfie: anne_smith.png
+  interested_in: both
+  about:
+
+curious:
+  name: Curious George
+  age: 8
+  location: London
+  selfie: curious_george.png
+  interested_in: unsure
+  about:
+
+  # <div class="wrapper-bamboo padded" style="background-image: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('images/high-resolution/bamboo_background.png');">
+  #     <div class="container">
+  #       <h2 class="text-center" style="color: white; font-size: 40px"><strong>Monkeys Near You</strong></h2>
+  #       <div class="row">
+  #         <div class="col-sm-12 col-md-6">
+  #           <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('images/andrew_wilson.png');">
+  #             <div class="card-location">Costa Rica</div>
+  #             <div class="card-description">
+  #               <h2 style="position: center;">Andrew Wilson</h2>
+  #               <ul>
+  #                 <li>Age: 44</li>
+  #                 <li>Occupation: Litigator</li>
+  #                 <li>Interests: Cognac, Yachts</li>
+  #               </ul>
+  #             </div>
+  #             <!-- <img class="card-icon avatar avatar-large" src=""> -->
+  #             <a class="card-link" href="profile.html" ></a>
+  #           </div>
+  #         </div>
+  #         <div class="col-sm-12 col-md-6">
+  #           <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('images/john_doe.jpg');">
+  #             <div class="card-location">Costa Rica</div>
+  #             <div class="card-description">
+  #               <h2>Curt Henderson</h2>
+  #               <ul>
+  #                 <li>Age: 29</li>
+  #                 <li>Occupation: Mechanic</li>
+  #                 <li>Interests: Nascar and Women</li>
+  #               </ul>
+  #             </div>
+  #             <!-- <img class="card-icon avatar avatar-large" src=""> -->
+  #             <a class="card-link" href="profile.html" ></a>
+  #           </div>
+  #         </div>
+  #         <div class="col-sm-12 col-md-6">
+  #           <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('images/anne_smith.jpg');">
+  #             <div class="card-location">Namibia</div>
+  #             <div class="card-description">
+  #               <h2>Elizabeth Richards</h2>
+  #               <ul>
+  #                 <li>Age: 23</li>
+  #                 <li>Occupation: Librarian</li>
+  #                 <li>Interests: Knitting</li>
+  #               </ul>
+  #             </div>
+  #             <!-- <img class="card-icon avatar avatar-large" src=""> -->
+  #             <a class="card-link" href="profile.html" ></a>
+  #           </div>
+  #         </div>
+  #         <div class="col-sm-12 col-md-6">
+  #           <div class="card" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('images/curious_george.jpg'); background-color: yellow;">
+  #             <div class="card-location">London</div>
+  #             <div class="card-description">
+  #               <h2>Curious George</h2>
+  #               <ul>
+  #                 <li>Age: 8</li>
+  #                 <li>Occupation: Fictional Character</li>
+  #                 <li>Interests: Books</li>
+  #               </ul>
+  #             </div>
+  #             <!-- <img class="card-icon avatar avatar-large" src=""> -->
+  #             <a class="card-link" href="profile.html" ></a>
+  #           </div>
+  #         </div>
+  #       </div>
+  #     </div>
+  #   </div>
